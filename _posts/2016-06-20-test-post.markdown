@@ -1,12 +1,13 @@
 ﻿---
 layout: post
-title: test-post
+title: "test-post"
+categories: test
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">20 Jun 2016</p>
+<p class="meta">20 jun 2016</p>
 
 Test
 -----------------------------------------------------
@@ -20,6 +21,7 @@ test list
 * b
 * L
 
+What is the One True License?
 -----------------------------
 
 this is a fork of tpw's jekyll website

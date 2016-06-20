@@ -1,6 +1,6 @@
 h1. This is the data for my github pages
 
-For the moment it is a pure fork from Tom Preston-Werner (tpw). This is a work in progress, personal changes to come
+For the moment it is a pure fork from the jekyll test site. This is a work in progress, personal changes to come
 
 It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever I push this repository to GitHub.
 
