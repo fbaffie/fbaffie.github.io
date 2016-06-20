@@ -4,8 +4,6 @@ title: "test-post"
 categories: test
 ---
 
-<p class="meta">20 jun 2016</p>
-
 Test
 -----------------------------------------------------
 
