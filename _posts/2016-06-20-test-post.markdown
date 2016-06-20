@@ -1,14 +1,12 @@
-﻿---
+---
 layout: post
 title: "test-post"
 categories: test
 ---
 
 Test
------------------------------------------------------
 
 Work in progress
---------------------------------------
 
 test list
 
