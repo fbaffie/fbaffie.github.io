@@ -16,10 +16,6 @@ test list
 * b
 * L
 
-What is the One True License?
------------------------------
 
-this is a fork of tpw's jekyll website
---------------------------
 
 
