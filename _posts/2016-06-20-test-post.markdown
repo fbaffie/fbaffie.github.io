@@ -4,9 +4,6 @@ title: "test-post"
 categories: test
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">20 jun 2016</p>
 
 Test
