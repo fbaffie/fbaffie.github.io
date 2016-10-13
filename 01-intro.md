@@ -1,11 +1,3 @@
----
-layout: post
-title: "test-post"
-categories: test
----
-
-Test pasting md conversion of rmd
-
 Introduction
 ============
 
@@ -80,7 +72,3 @@ knitr::kable(
 You can write citations, too. For example, we are using the **bookdown** package \[@R-bookdown\] in this sample book, which was built on top of R Markdown and **knitr** \[@xie2015\].
 
 Ok, let's see if this whole thing works! try again
-
-
-
-
